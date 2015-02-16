@@ -1,0 +1,22 @@
+bbbbbbbbbb
+bMMMfffffb
+bMCMfffSfb
+bMRMfffffb
+bPRPPPPPPb
+bPRRRR@PPb
+bPffffRPPb
+bPf/ffRPPb
+bPffffRPPb
+bbbbbbbbbb
+      ^
+      ^You Start here
+
+B = beach
+M = mountin
+P = plain
+C = Castle
+F = forest
+S = strange temple
+R = road
+@ = town
+/ = death chasm
