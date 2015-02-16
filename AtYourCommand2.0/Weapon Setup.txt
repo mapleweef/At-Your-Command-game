@@ -1,0 +1,4 @@
+attack
+power effect
+speed effect
+intel effect

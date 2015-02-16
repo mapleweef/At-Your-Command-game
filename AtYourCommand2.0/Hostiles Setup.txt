@@ -1,0 +1,13 @@
+name
+hp
+attack
+power
+speed
+intel
+acc
+defence chest
+head
+arms
+legs
+xp
+gold
