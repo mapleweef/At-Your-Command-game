@@ -1,0 +1,6 @@
+mana effect (how much mana it cost to cast)
+hp effect (heal)
+damage (to enemy)
+power effect 
+intel effect 
+speed effect

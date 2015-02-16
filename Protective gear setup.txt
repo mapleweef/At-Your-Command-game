@@ -1,0 +1,6 @@
+chest
+head
+arms
+legs
+mana affect
+hp affect
